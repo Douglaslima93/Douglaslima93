@@ -1,8 +1,9 @@
 ## Olá eu sou Douglas Lima
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript e Analise e Desenvolvimento de Sistemas
-- 📫 Contate-me no e-mail: douglas.a.l@hotmail.com 
+- 🔭 Hoje trabalho como desenvolvedor front-end, tenho me dedicada diariamente me desafiando e aprimorando meu conhecimentos, para assim conquistar o meu espaço no mercado de desenvolvedores.
+- 🌱 Estou cursando 3° Semestre de Analise e Desenvolvimento de Sistemas, e sou formado em Manutenção industrial.
+- 📫 Contate-me no e-mail: douglas.a.l@hotmail.com
+- 📱  Whatsaapp 15 99601-3651
 
 <picture>
 <source 
