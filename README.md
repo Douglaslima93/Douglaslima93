@@ -1,7 +1,7 @@
 ## Olá eu sou Douglas Lima
 
-- 🔭 Hoje trabalho como desenvolvedor front-end, tenho me dedicada diariamente me desafiando e aprimorando meu conhecimentos, para assim conquistar o meu espaço no mercado de desenvolvedores.
-- 🌱 Estou cursando 3° Semestre de Analise e Desenvolvimento de Sistemas, e sou formado em Manutenção industrial.
+- 🔭 Desenvolvedor Front-end.
+- 🌱 Formado em Manutenção Industrial (Fatec TA, 2016), cursando 3° Analise e Desenvolvimento de Sistemas (UNIP, formação Dezembro 2023).
 - 📫 Contate-me no e-mail: douglas.a.l@hotmail.com
 - 📱  Whatsaapp 15 99601-3651
 
