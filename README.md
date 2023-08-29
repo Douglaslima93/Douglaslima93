@@ -1,7 +1,7 @@
 ## Olá sou o Douglas Lima
 
 - 🔭 Desenvolvedor Front-end.
-- 🌱 Formado em Manutenção Industrial (Fatec TA, 2016), cursando 3° Analise e Desenvolvimento de Sistemas (UNIP, formação Dezembro 2023).
+- 🌱 Formado em Manutenção Industrial (Fatec TA, 2016), cursando 4° Analise e Desenvolvimento de Sistemas (UNIP, formação Dezembro 2023).
 - 📫 Contate-me no e-mail: douglas.a.l@hotmail.com
 - 📱  Whatsaapp 15 99601-3651
 
