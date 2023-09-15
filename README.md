@@ -4,6 +4,7 @@
 - 🌱 Formado em Manutenção Industrial (Fatec TA, 2016), cursando 4° Analise e Desenvolvimento de Sistemas (UNIP, formação Dezembro 2023).
 - 📫 Contate-me no e-mail: douglas.a.l@hotmail.com
 - 📱  Whatsaapp 15 99601-3651
+- 💼 Portfolio: https://portfolio-douglas-lima.netlify.app
 
 <picture>
 <source 
